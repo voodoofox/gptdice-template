@@ -1,0 +1,4 @@
+
+generic: "Generate a short fantasy quest using seed {seed}. Keep it under 100 words."
+pirates: "Generate a swashbuckling pirate quest using seed {seed}. Include a ship name."
+scifi: "Generate a space‑opera side quest on a distant planet using seed {seed}. Keep tone pulp‑adventure."
